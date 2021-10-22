@@ -1,0 +1,18 @@
+{
+  "api_host": "http://xx.xx.xx.xx:80",
+  "root_out_dir": "E://阿里云盘_alist爬取",
+  "app_aria2": "D://Program Files//aria2//Aria2-single.exe",
+  "api_list": {
+    "load_path": "/api/path"
+  },
+  "continue_previous_task": true,
+  "source_paths": [
+    "home/图片区/文件夹1",
+    "home/图片区/文件夹2",
+    "home/图片区/文件夹3",
+    "home/图片区/文件夹4",
+    "home/图片区/文件夹5",
+    "home/图片区/文件夹6/其他文件夹",
+    "home/图片区/文件夹7"
+  ]
+}

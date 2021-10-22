@@ -1,0 +1,36 @@
+{
+  "completedLength": "0",
+  "connections": "1",
+  "dir": "E://阿里云盘_alist爬取",
+  "downloadSpeed": "0",
+  "files": [
+    {
+      "completedLength": "0",
+      "index": "1",
+      "length": "0",
+      "path": "E://阿里云盘_alist爬取 //IMG_5413.jpg",
+      "selected": "true",
+      "uris": [
+        {
+          "status": "used",
+          "uri": "http://alist.host/d/home/A/B/C/D/IMG_5413.jpg"
+        },
+        {
+          "status": "waiting",
+          "uri": "http://alist.host/d/home/A/B/C/D/IMG_5413.jpg"
+        },
+        {
+          "status": "waiting",
+          "uri": "http://alist.host/d/home/A/B/C/D/IMG_5413.jpg"
+        }
+      ]
+    }
+  ],
+  "gid": "13159a264ccee768",
+  "numPieces": "0",
+  "pieceLength": "4096",
+  "status": "active",
+  "totalLength": "0",
+  "uploadLength": "0",
+  "uploadSpeed": "0"
+}

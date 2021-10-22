@@ -1,0 +1,3 @@
+pyaria2==0.1.1
+tqdm==4.62.2
+requests==2.26.0

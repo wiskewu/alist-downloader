@@ -1,0 +1,34 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "dir": "home/A/B/C/D/",
+      "file_extension": "mov",
+      "file_id": "144bdbaa1c6f70764e765169266846001d72c203",
+      "name": "xxx2017-11-15 222127.mov",
+      "type": "file",
+      "updated_at": "2021-06-14T00:29:23.738Z",
+      "category": "video",
+      "content_type": "application/oct-stream",
+      "size": 467308888,
+      "password": "n",
+      "url": "",
+      "content_hash": "7FBE5400AD2093CD79A0CFDB6EB64BAEBF4184C6"
+    },
+    {
+      "dir": "home/A/B/C/D/",
+      "file_extension": "mp4",
+      "file_id": "674424c8261b0c6a0e33ff660719c2277efd7acb",
+      "name": "xx2.mp4",
+      "type": "file",
+      "updated_at": "2021-06-14T06:25:36.432Z",
+      "category": "video",
+      "content_type": "application/oct-stream",
+      "size": 467301024,
+      "password": "n",
+      "url": "",
+      "content_hash": "8FEE8D9C73AD6DBDC9B096F17EDCA136EB4184B4"
+    }
+  ],
+  "message": "ok"
+}
